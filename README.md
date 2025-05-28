@@ -1,5 +1,4 @@
 ## Hi there 👋!
-[I'm Omar hany ](https://media.giphy.com/media/yourgifurl.gif)
 <!--
 **omarhany3/omarhany3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
