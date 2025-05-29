@@ -1,4 +1,8 @@
-<a href=<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2999&pause=5000&color=1A1AC8&width=435&lines=Hello+%F0%9F%91%8B!;My+name+is+Omar;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2999&pause=500&color=1A1AC8&width=435&lines=Hello+%F0%9F%91%8B!;My+name+is+Omar;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
+</div>
+  
 
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5dHcwejdsMzVvdGd4MjVqM3F2eGxha2J1dWpuNmUyaHRtOXhpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
