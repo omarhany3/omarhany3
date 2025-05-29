@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omarhany3)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omarhany3)<br/>
 🔭I'm currently studying in computer science<br>
 
 # 💻 Tech Stack:
