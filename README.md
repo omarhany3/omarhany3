@@ -10,10 +10,10 @@
 
 
 # 🌠 About Me:
-🎓 I'm a computer science student with a growing passion for technology and problem-solving.
-🚀 Currently diving into C++, data structures, and software design basics.
-📚 Eager to grow by working on real projects, contributing to open source, and expanding my skills step by step.
-👨‍💻 Always open to feedback, collaboration, and learning from others in the tech community.
+🎓 I'm a computer science student with a growing passion for technology and problem-solving.<br/>
+🚀 Currently diving into C++, data structures, and software design basics.<br/>
+📚 Eager to grow by working on real projects, contributing to open source, and expanding my skills step by step.<br/>
+👨‍💻 Always open to feedback, collaboration, and learning from others in the tech community.<br/>
 # 💻 Tech Stack:
 
 <div align="left">
