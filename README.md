@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭I'm currently studying in computer science<br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omarhany3)
+🔭I'm currently studying in computer science<br>
 
 # 💻 Tech Stack:
 
