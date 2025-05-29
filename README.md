@@ -1,4 +1,4 @@
-
+<h2 align="left">Hello 👋! My name is Omar and I'm a Software Engineer</h2>
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5dHcwejdsMzVvdGd4MjVqM3F2eGxha2J1dWpuNmUyaHRtOXhpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 </div>
