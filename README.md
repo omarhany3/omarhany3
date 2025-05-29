@@ -1,3 +1,10 @@
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5dHcwejdsMzVvdGd4MjVqM3F2eGxha2J1dWpuNmUyaHRtOXhpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+</div>
+
+
+<h1 align="center">hey there 👋</h1>
+
 # 💫 About Me:
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omarhany3)<br/>
 🔭I'm currently studying in computer science<br>
