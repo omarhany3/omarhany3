@@ -12,7 +12,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omarhany3.omarhany3&left_text=Profile%20views"  />
 </div>
 
-
 # 🌠 About Me:
 🎓 I'm a computer science student with a growing passion for technology and problem-solving.<br/>
 🚀 Currently diving into C++, data structures, and software design basics.<br/>
@@ -40,6 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhany3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=omarhany3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=omarhany3&theme=tokyonight&hide_border=false)<br/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarhany3/omarhany3/output/github-snake-dark.svg" />
